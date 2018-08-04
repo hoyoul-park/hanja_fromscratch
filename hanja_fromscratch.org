@@ -1,0 +1,85 @@
+#+TITLE: hanja_fromscratch
+#+setupfile:theme-readtheorg.setup
+#+OPTIONS:   toc:3 
+#+AUTHOR:    Hoyoul Park
+* 한자 스터디
+#+begin_note
+시간: 11:00am - 12:50am \\
+장소: 굿데이 베이커리 카페 \\
+모임자: 남혜정,이건영,박호열
+#+end_note
+* 한자 자료
+한자공부 100일 프로젝트 (1일차)\\
+[[https://youtu.be/snfU7xWaYkY?list=PLHbffs9ZCVWjKlou6krqvcIfpp4NTiaO7][동영상링크]]
+#+begin_note
+사자성어편 \\
+  탁상 공론 : 실현 가능성 없는 허황된 논의
+#+end_note
+높을탁(식탁,탁월하다,탁구) \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-12-02-04.gif \\
+윗상 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-07-07-01.gif \\
+빌공(창공) \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-01-28-03.gif \\
+논할논(물론,논쟁,중론) \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/14-02-14-01.gif \\
+#+begin_note
+[글자편]
+공이 들어간 글자: 법식,공공,칠공
+#+end_note
+
+법식(장인공 +주살), 공식, 예식\\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-07-35-02.gif \\
+공공: 성공, 유공자.\\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-01-28-02.gif \\
+칠공: 전공, 공수\\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-01-28-04.gif \\
+
+* 해야할것 
+#+begin_note
+천자문 20자 외우기
+천지현황, 우주홍황,일월영측,진수렬장,한래서왕
+#+end_note
+하늘천 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-10-11-02.gif \\
+
+땅지 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-09-33-07.gif \\
+
+검을현 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-17-01.gif \\
+
+누를황 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-14-32-01.gif \\
+집우 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-43-02.gif \\
+집주 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-09-24-05.gif \\
+넓을홍 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-27-01.gif \\
+거칠황 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-32-02.gif \\
+날일 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-65-02.gif \\
+달월 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-49-01.gif \\
+찰영 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/13-08-27-08.gif \\
+기울측 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/15-10-30-02.gif \\
+별진 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-09-35-01.gif \\
+별수 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-07-27-03.gif \\
+벌릴렬 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-04-15-01.gif \\
+베풀장 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/12-09-06-02.gif \\
+찰한 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-14-03-02.gif \\
+올래 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-04-08-01.gif \\
+더울서 \\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-07-11-04.gif \\
+갈왕\\
+https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-37-02.gif \\  
