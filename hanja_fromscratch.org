@@ -2,13 +2,13 @@
 #+setupfile:theme-readtheorg.setup
 #+OPTIONS:   toc:3 
 #+AUTHOR:    Hoyoul Park
-* 한자 스터디
+* 한자 스터디 (8월4일)
 #+begin_note
 시간: 11:00am - 12:50am \\
 장소: 굿데이 베이커리 카페 \\
 모임자: 남혜정,이건영,박호열
 #+end_note
-* 한자 자료
+** 한자 자료
 한자공부 100일 프로젝트 (1일차)\\
 [[https://youtu.be/snfU7xWaYkY?list=PLHbffs9ZCVWjKlou6krqvcIfpp4NTiaO7][동영상링크]]
 #+begin_note
@@ -35,11 +35,15 @@ https://ssl.pstatic.net/dicimg/hanja/stroke/11-01-28-02.gif \\
 칠공: 전공, 공수\\
 https://ssl.pstatic.net/dicimg/hanja/stroke/12-01-28-04.gif \\
 
-* 해야할것 
+** 해야할것 
 #+begin_note
 천자문 20자 외우기
 천지현황, 우주홍황,일월영측,진수렬장,한래서왕
 #+end_note
+#+Begin_seealso
+천지현황
+#+end_seealso
+
 하늘천 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-10-11-02.gif \\
 
@@ -51,6 +55,10 @@ https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-17-01.gif \\
 
 누를황 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-14-32-01.gif \\
+#+Begin_seealso
+우주흥황
+#+end_seealso
+
 집우 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-43-02.gif \\
 집주 \\
@@ -59,6 +67,10 @@ https://ssl.pstatic.net/dicimg/hanja/stroke/11-09-24-05.gif \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-27-01.gif \\
 거칠황 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/12-14-32-02.gif \\
+#+Begin_seealso
+일월영측
+#+end_seealso
+
 날일 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-65-02.gif \\
 달월 \\
@@ -67,6 +79,10 @@ https://ssl.pstatic.net/dicimg/hanja/stroke/11-08-49-01.gif \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/13-08-27-08.gif \\
 기울측 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/15-10-30-02.gif \\
+#+Begin_seealso
+진수렬장
+#+end_seealso
+
 별진 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-09-35-01.gif \\
 별수 \\
@@ -75,6 +91,10 @@ https://ssl.pstatic.net/dicimg/hanja/stroke/11-07-27-03.gif \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-04-15-01.gif \\
 베풀장 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/12-09-06-02.gif \\
+#+Begin_seealso
+한래서왕
+#+end_seealso
+
 찰한 \\
 https://ssl.pstatic.net/dicimg/hanja/stroke/11-14-03-02.gif \\
 올래 \\
